@@ -1,0 +1,28 @@
+﻿AI Usage Disclosure for Homework 2:
+
+
+I used ChatGPT
+
+
+How AI Was Used:
+
+
+I used ChatGPT to help organize and format my WBS information into a project timeline and Gantt chart. It helped me check whether the dates matched the weekly bars, and proofread the document to see whether everything was consistent. 
+
+
+1. What does a WBS and a Gantt chart need to have
+
+
+2. How do you format Gantt chart in google sheets
+
+
+3. Do these dates <on Gantt chart> correspond to the dates on the time line <I sent the Gantt chart the time line draft to make sure the dates on the chart and timeline are consistent> 
+
+
+4. Correct any grammatical errors
+
+
+What I Kept and What I Changed:
+
+
+I kept my initial timeline and Gantt chart layout, but I added a duration (For each task) for each task.  I also changed any grammatical errors that I made and forgot to number some of the levels from the WBS.
